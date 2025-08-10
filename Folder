@@ -1,0 +1,10 @@
+Day01-StaticWebsite-CICD/
+│
+├── README.md
+├── diagrams/
+│   └── architecture.png
+├── cloudformation/
+│   └── template.yaml
+└── terraform/
+    └── main.tf
+ 
