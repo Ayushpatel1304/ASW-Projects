@@ -45,21 +45,21 @@ Integrated an Application Load Balancer to distribute requests across the ASG.
 Used ApacheBench (ab) or Locust to simulate traffic spikes and observe scaling in action.
 
 Learning Outcomes
-Understanding EC2 instance lifecycle and AMI creation.
+* Understanding EC2 instance lifecycle and AMI creation.
 
-Automating server scaling to match workload demand.
+* Automating server scaling to match workload demand.
 
-Implementing high availability and fault tolerance using AWS native tools.
+* Implementing high availability and fault tolerance using AWS native tools.
 
-Load testing and monitoring scaling behavior.
+* Load testing and monitoring scaling behavior.
 
 Architecture
 The final architecture consists of:
 
-Elastic Load Balancer (ALB) in front.
+* Elastic Load Balancer (ALB) in front.
 
-Auto Scaling Group spanning multiple Availability Zones.
+* Auto Scaling Group spanning multiple Availability Zones.
 
-Instances launched from the custom AMI running the pre-configured web server.
+* Instances launched from the custom AMI running the pre-configured web server.
 
 This setup ensures scalability, resilience, and reduced operational overhead, forming a solid foundation for more complex cloud-native deployments.
