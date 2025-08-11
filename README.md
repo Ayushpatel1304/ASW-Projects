@@ -65,7 +65,7 @@ The final architecture consists of:
 This setup ensures scalability, resilience, and reduced operational overhead, forming a solid foundation for more complex cloud-native deployments.
 
 ## 🏗 Architecture Diagram
-![Architecture Diagram](diagrams/architecture.png)
+![Architecture Diagram](/architecture.png)
 
 ## 🔹 AWS Services Used
 - S3
