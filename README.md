@@ -1,4 +1,4 @@
-# Day 2 — EC2 Web Server with Auto Scaling
+# EC2 Web Server with Auto Scaling
 
 This project demonstrates how to provision, configure, and scale a web server on AWS using Amazon EC2, Auto Scaling Groups (ASG), and an Elastic Load Balancer (ELB). It walks through the full lifecycle of deploying a web application — from a single manually configured server to a resilient, self-healing, and automatically scalable architecture.
 
